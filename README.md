@@ -1,4 +1,10 @@
-## Hi there 👋
+## Bem-vindo(a) ao meu perfil! 🚀
+
+Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas e, simultaneamente, de Desenvolvimento Mobile (Instituto Proa). Estou em busca ativa da minha primeira vaga para aplicar meus conhecimentos na prática.
+
+Meu principal vetor de estudo é a **Ciência de Dados**. Sou fascinado pelo potencial da inovação e tenho um objetivo claro: especializar-me em **Sports Analytics**. Minha meta é usar dados para gerar insights e otimizar a tomada de decisão no universo do futebol.
+
+Estou pronto para aprender, contribuir e crescer, sempre com ética e compromisso. 👋
 
 <!--
 **Pxtro7/Pxtro7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
