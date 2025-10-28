@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil! 🚀
+## Bom dia, boa tarde e boa noite! 🚀
 
 Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas e, simultaneamente, de Desenvolvimento Mobile (Instituto Proa). Estou em busca ativa da minha primeira vaga para aplicar meus conhecimentos na prática.
 
